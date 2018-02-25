@@ -40,7 +40,7 @@ _Be aware that the server administrator can block certain file types from being 
 
 ### Audio
 
-Before sending a audio message, if you are using a browser, you need to give Rocket.Chat permission to use your microphone.
+Before sending an audio message, if you are using a browser, you need to give Rocket.Chat permission to use your microphone.
 
 To start recording you can simply click on the `Create new Audio Message` option on the attachment menu. To stop recording just press the same option again.
 
@@ -48,7 +48,7 @@ You will have the chance to listen to the message before sending it.
 
 ### Video
 
-Before sending a audio message, if you are using a browser, you need to give Rocket.Chat permission to use your camera.
+Before sending a video message, if you are using a browser, you need to give Rocket.Chat permission to use your camera.
 
 To start recording you can simply click on the `Create new Video Message` option on the attachment menu.
 
